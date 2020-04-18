@@ -1,0 +1,23 @@
+{
+    "dir": "ltr",
+    "lang": "en",
+    "name": "Notes App",
+    "scope": "/",
+    "display": "standalone",
+    "start_url": "/index.html",
+    "short_name": "Notes App",
+    "theme_color": "green",
+    "description": "",
+    "orientation": "any",
+    "background_color": "green",
+    "related_applications": [],
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "/images/favicon.ico",
+            "sizes": "16x16 24x24 32x32 48x48 130x130"
+        },{"src": "/images/favicon.png",
+            "sizes": "512x512 152x152 192x192 128x128 144x144 256x256"
+          }
+    ]
+}

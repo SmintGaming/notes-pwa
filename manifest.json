@@ -16,8 +16,15 @@
         {
             "src": "/notes-pwa/favicon.ico",
             "sizes": "16x16 24x24 32x32 48x48 130x130"
-        },{"src": "/notes-pwa/favicon.png",
-            "sizes": "512x512 152x152 192x192 128x128 144x144 256x256"
-          }
+        },{"src": "/notes-pwa/512.png",
+            "sizes": "512x512"
+          },{"src": "/notes-pwa/152.png",
+            "sizes": "152x152"
+          },{"src": "/notes-pwa/192.png",
+            "sizes": "192x192"
+          },{"src": "/notes-pwa/128.png",
+            "sizes": "128x128"
+          },{"src": "/notes-pwa/144.png",
+            "sizes": "144x144"
     ]
 }

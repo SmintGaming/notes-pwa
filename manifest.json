@@ -1,7 +1,7 @@
 {
     "dir": "ltr",
     "lang": "en",
-    "name": "PowrNoted",
+    "name": "PowrNotes",
     "scope": "/notes-pwa/",
     "display": "standalone",
     "start_url": "/notes-pwa/index.html",

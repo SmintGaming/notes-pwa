@@ -11,10 +11,9 @@
     "orientation": "any",
     "background_color": "64ff00",
     "icons": [
-        {
-            "src": "/notes-pwa/favicon.ico",
+           {"src": "/notes-pwa/favicon.ico",
             "sizes": "16x16 24x24 32x32 48x48 130x130"
-        },{"src": "/notes-pwa/512.png",
+         },{"src": "/notes-pwa/512.png",
             "sizes": "512x512"
           },{"src": "/notes-pwa/152.png",
             "sizes": "152x152"

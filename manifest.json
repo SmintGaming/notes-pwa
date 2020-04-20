@@ -6,10 +6,10 @@
     "display": "standalone",
     "start_url": "/notes-pwa/index.html",
     "short_name": "PowrNotes",
-    "theme_color": "64ff00",
+    "theme_color": "green",
     "description": "Powerful Notes That Stick.",
     "orientation": "any",
-    "background_color": "64ff00",
+    "background_color": "green",
     "icons": [
            {"src": "/notes-pwa/favicon.ico",
             "sizes": "16x16 24x24 32x32 48x48 130x130"

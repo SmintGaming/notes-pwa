@@ -8,7 +8,7 @@
     "short_name": "PowrNotes",
     "theme_color": "64ff00",
     "description": "Powerful Notes That Stick.",
-    "orientation": "any",
+    "orientation": "landscape",
     "background_color": "64ff00",
     "related_applications": [],
     "prefer_related_applications": false,

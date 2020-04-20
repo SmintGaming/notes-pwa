@@ -14,7 +14,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <link rel="stylesheet" href="./styles/styles.css">
-    <title>Notes App</title>
+    <title>PowrNotes</title>
 </head>
 <body>
 <div class="header">
@@ -39,7 +39,8 @@
 </div>
     <script src="//cdn.jsdelivr.net/npm/eruda"></script>
     <script>
-        eruda.init()
+        
+        eruda.init(), eruda.get("console").config.set("displayGetterVal", !0)
     </script>
     <script src="./pwabuilder-sw-register.js"></script>
     <script src="./scripts/uuid.js"></script>
